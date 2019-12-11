@@ -2,7 +2,7 @@
 ## Fall 2019
 ## Final Project: Detecting Intracranial Hemorrhage with Deep Convolutional Neural Networks
 
-### ![](output/nyc-street-trees.jpg)
+### ![](figs/ID_0a00bdf23.jpg)
 
 
 Team:
