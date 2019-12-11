@@ -5,7 +5,11 @@
 ### ![](figs/ID_0a00bdf23.jpg)
 
 
-**Team**: Matteo Di Bernardo & Tim R. Schleicher
+
+**Team**: 
+
+Matteo Di Bernardo & Tim R. Schleicher
+
 
 **Project summary**: 
 
@@ -23,6 +27,7 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 proj/
 ├── data/
 ├── doc/
+├── presentation/
 └── figs/
 ```
 
