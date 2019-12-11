@@ -1,6 +1,6 @@
 # Translational Bioinformatics @ Columbia University
 ## Fall 2019
-## Final Project: Detecting Intracranial Hemorrhage with Deep Convolutional Neural Networks
+## Final Project: Detecting Intracranial Hemorrhage with Deep CNNs
 
 ### ![](figs/ID_0a00bdf23.jpg)
 
