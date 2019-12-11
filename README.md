@@ -5,11 +5,9 @@
 ### ![](figs/ID_0a00bdf23.jpg)
 
 
-Team:
-	+ Matteo Di Bernardo
-	+ Tim R. Schleicher
+**Team**: Matteo Di Bernardo & Tim R. Schleicher
 
-+ **Project summary**: 
+**Project summary**: 
 
 Traumatic brain injuries can result in internal bleeding within the brain, often classified by health professionals as intracranial hemorrhage (ICH), a process that can cause permanent brain damage and is responsible for almost 30% of yearly injury deaths in the United States. Other traumatic events or persistent conditions, such as strokes or high blood pressure, can also lead to ICH. In order to initiate ICH treatment, which often involves invasive surgery when cases are life threatening, experienced radiologists are required to quickly identify the presence of ICH and its subtype via computed tomography (CT) scans. This has becomean increasingly difficult endeavor in the face of limited availability of radiologists, efforts to reduce costs in the healthcare system, and most importantly, the little time available for a time-consuming analysis needed to save the life of the patient. 
 
@@ -23,10 +21,9 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
-├── tree_app/
 ├── data/
 ├── doc/
-└── output/
+└── figs/
 ```
 
 Please see each subfolder for a README file.
