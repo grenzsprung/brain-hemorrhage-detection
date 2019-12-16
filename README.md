@@ -20,7 +20,7 @@ The boom of machine learning techniques, specifically image classifier algorithm
 We developed and implemented several Artifical Neural Networks as image classifiers for the identification of ICHs. This includes a Simple Neural Network, a deep Convolutional Neural Network and a ResNet50. The algorithms evaluated and discussed. Please see this [presentation](presentation/191211 BINFG4006 - Final Presentation - DiBernardo_Schleicher - final.pdf) for a detailed outline of our project and its findings. Our humble research seeks to facilitate better and faster diagnosis of ICH at lower costs and has the potential to contribute to changing the lives of patients with a complication where a few additional minutes could mean the difference between life and death.
 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows:
 
 ```
 proj/
